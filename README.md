@@ -10,5 +10,6 @@ Tech used:
 
 - Clone this repo
 - Navigate to the folder in your command line
+- Make sure the dependencies `flask` and `flask-wtf` are installed
 - Enter `$ flask run`
 - The site should be running on `localhost:5000`

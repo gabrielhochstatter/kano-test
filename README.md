@@ -12,7 +12,7 @@ Tech used:
 - Clone this repo
 - Navigate to the folder in your command line
 - Make sure the dependencies `flask` and `flask-wtf` are installed
-- Enter `$ flask run`
+- Enter `$ flask run` or alternatively `$ python3 app.py`
 - The site should be running on `localhost:5000`
 
 - Alternatively if you have Docker installed, you can run `docker-compose up` and the app will start on `localhost:5000`. The only caveat here is that the `message_log.txt` file will not save in the project directory, however the POST request is still handled correctly it seems.
